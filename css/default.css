@@ -1,5 +1,13 @@
 @charset "UTF-8"; 
   body{
+    .explanation{
+      float:left;
+    }
+    
+    dt{
+      clear:left;
+      float:left;
+      font-weight:bold;
     .btn {
       -webkit-appearance:none;
       -webkit-border-radius:0;
