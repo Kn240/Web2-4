@@ -1,5 +1,6 @@
 @charset "UTF-8"; 
   body{
+}
     .explanation{
       float:left;
     }
@@ -34,4 +35,3 @@
     .btn-reset{
       background-color:yellow；
     }
-}
