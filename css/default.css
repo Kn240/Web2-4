@@ -36,3 +36,25 @@
     .btn-reset {
       background-color: yellow；
     }
+    #ingredient{
+      border: 2px solid lightcoral;
+      border-collapse: collapse;
+    }
+
+    th, td{
+      border: 1px solid lightcoral;
+    }
+    th{
+      border: 1px solid blue;
+      background-color: red;
+      padding: 5px;
+      width: 150px;
+      text-align: center;
+    }
+
+    td{
+      border: 1px solid blue;
+      padding: 5px;
+      width: 100px;
+      text-align: right;
+    }
