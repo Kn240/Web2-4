@@ -1,9 +1,5 @@
 @charset "UTF-8"; 
   body{
-    .explanation{
-      float: left;
-    }
-
     .btn {
       -webkit-appearance: none;
       -webkit-border-radius: 0;
