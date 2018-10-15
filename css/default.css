@@ -3,22 +3,11 @@
     .explanation{
       float: left;
     }
-    
-    h1{
-      float: left;
-    }
-    h2{
-      float: left;
-    }
-    h3{
-      float: left;
-    }
-     h4{
-      float: left;
-    }
+
     .btn {
       -webkit-appearance: none;
-      margin:5px;
+      -webkit-border-radius: 0;
+      margin: 5px;
       width: 150;
       height: 50;
       padding: 15;
@@ -39,4 +28,5 @@
     
     .btn-reset {
       background-color: yellow；
+    }
 }
