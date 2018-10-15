@@ -1,3 +1,11 @@
 @charset "UTF-8"; 
   body{
+    .explanation{
+      float: left;
+    }
+    
+    dt{
+      float: left;
+      font-weight: bold;
+    }
   }
